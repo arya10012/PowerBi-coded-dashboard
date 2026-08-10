@@ -91,3 +91,6 @@ This file contains development and documentation notes for the project.
 
 ### Finalize project documentation
 - Development note added: 2026-08-19 16:05:04
+
+### 2026-08-10 - Initialize Power BI dashboard project
+Set up the initial project structure and development environment.
