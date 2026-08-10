@@ -97,3 +97,6 @@ Set up the initial project structure and development environment.
 
 ### 2026-08-10 - Add initial project files
 Added the initial files required for the dashboard project.
+
+### 2026-08-10 - Add source dataset
+Added the project dataset and organized the source data.
