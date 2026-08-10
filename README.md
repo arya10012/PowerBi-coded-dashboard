@@ -5,7 +5,7 @@
 
 Python scripts generate PBIR JSON files that Power BI renders as complete, multi-page dashboards. No dragging fields, no clicking through menus — one line of Python per visual.
 
-## What You Need
+## What You Need -
 
 The entire approach rests on **two text files** that together define a complete dashboard:
 
