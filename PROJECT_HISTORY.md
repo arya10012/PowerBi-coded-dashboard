@@ -103,3 +103,6 @@ Added the project dataset and organized the source data.
 
 ### 2026-08-11 - Organize project data structure
 Organized project data and supporting resources.
+
+### 2026-08-11 - Add data preparation workflow
+Documented the initial data preparation workflow.
