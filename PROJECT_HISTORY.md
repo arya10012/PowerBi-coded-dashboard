@@ -100,3 +100,6 @@ Added the initial files required for the dashboard project.
 
 ### 2026-08-10 - Add source dataset
 Added the project dataset and organized the source data.
+
+### 2026-08-11 - Organize project data structure
+Organized project data and supporting resources.
