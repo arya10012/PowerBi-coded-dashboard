@@ -106,3 +106,6 @@ Organized project data and supporting resources.
 
 ### 2026-08-11 - Add data preparation workflow
 Documented the initial data preparation workflow.
+
+### 2026-08-11 - Review source data
+Reviewed source fields and identified the main analytical dimensions.
