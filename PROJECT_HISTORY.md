@@ -112,3 +112,6 @@ Reviewed source fields and identified the main analytical dimensions.
 
 ### 2026-08-12 - Start data cleaning
 Started cleaning and validating the source dataset.
+
+### 2026-08-12 - Handle missing data
+Reviewed missing values and prepared the dataset for analysis.
