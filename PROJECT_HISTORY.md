@@ -115,3 +115,6 @@ Started cleaning and validating the source dataset.
 
 ### 2026-08-12 - Handle missing data
 Reviewed missing values and prepared the dataset for analysis.
+
+### 2026-08-12 - Standardize data fields
+Standardized important fields and data formats.
