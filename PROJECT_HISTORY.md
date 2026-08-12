@@ -109,3 +109,6 @@ Documented the initial data preparation workflow.
 
 ### 2026-08-11 - Review source data
 Reviewed source fields and identified the main analytical dimensions.
+
+### 2026-08-12 - Start data cleaning
+Started cleaning and validating the source dataset.
