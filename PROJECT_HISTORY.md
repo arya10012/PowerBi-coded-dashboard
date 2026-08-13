@@ -118,3 +118,6 @@ Reviewed missing values and prepared the dataset for analysis.
 
 ### 2026-08-12 - Standardize data fields
 Standardized important fields and data formats.
+
+### 2026-08-13 - Build initial data model
+Started building the analytical data model.
