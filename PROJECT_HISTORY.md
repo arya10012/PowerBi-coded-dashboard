@@ -121,3 +121,6 @@ Standardized important fields and data formats.
 
 ### 2026-08-13 - Build initial data model
 Started building the analytical data model.
+
+### 2026-08-13 - Refine data relationships
+Reviewed and refined relationships between analytical fields.
