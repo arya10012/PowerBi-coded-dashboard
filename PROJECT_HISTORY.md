@@ -130,3 +130,6 @@ Validated the cleaned dataset before dashboard development.
 
 ### 2026-08-14 - Create dashboard foundation
 Created the initial Power BI dashboard structure.
+
+### 2026-08-14 - Add initial dashboard visuals
+Added the first analytical visuals to the dashboard.
