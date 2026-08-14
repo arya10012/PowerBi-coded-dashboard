@@ -133,3 +133,6 @@ Created the initial Power BI dashboard structure.
 
 ### 2026-08-14 - Add initial dashboard visuals
 Added the first analytical visuals to the dashboard.
+
+### 2026-08-14 - Add KPI calculations
+Added KPI calculations for the main business metrics.
