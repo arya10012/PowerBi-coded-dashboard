@@ -136,3 +136,6 @@ Added the first analytical visuals to the dashboard.
 
 ### 2026-08-14 - Add KPI calculations
 Added KPI calculations for the main business metrics.
+
+### 2026-08-15 - Add DAX measures
+Added DAX measures required for dashboard analysis.
