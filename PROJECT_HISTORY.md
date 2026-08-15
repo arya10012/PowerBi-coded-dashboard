@@ -142,3 +142,6 @@ Added DAX measures required for dashboard analysis.
 
 ### 2026-08-15 - Improve DAX calculations
 Refined DAX calculations and validated analytical results.
+
+### 2026-08-15 - Add dashboard filters
+Added filters and interactive controls for dashboard exploration.
