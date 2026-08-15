@@ -139,3 +139,6 @@ Added KPI calculations for the main business metrics.
 
 ### 2026-08-15 - Add DAX measures
 Added DAX measures required for dashboard analysis.
+
+### 2026-08-15 - Improve DAX calculations
+Refined DAX calculations and validated analytical results.
