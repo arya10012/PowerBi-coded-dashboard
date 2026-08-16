@@ -145,3 +145,6 @@ Refined DAX calculations and validated analytical results.
 
 ### 2026-08-15 - Add dashboard filters
 Added filters and interactive controls for dashboard exploration.
+
+### 2026-08-16 - Improve dashboard layout
+Improved dashboard layout and visual organization.
