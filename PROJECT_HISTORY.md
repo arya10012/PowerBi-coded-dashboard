@@ -157,3 +157,6 @@ Completed the main dashboard analytical sections.
 
 ### 2026-08-17 - Test dashboard calculations
 Tested dashboard calculations against the underlying data.
+
+### 2026-08-17 - Fix dashboard issues
+Fixed issues identified during dashboard testing.
