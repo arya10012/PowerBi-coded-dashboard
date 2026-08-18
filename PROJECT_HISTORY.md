@@ -169,3 +169,6 @@ Added documentation describing the project and dashboard.
 
 ### 2026-08-18 - Document dashboard methodology
 Documented the data preparation and dashboard methodology.
+
+### 2026-08-18 - Review project documentation
+Reviewed and improved project documentation.
