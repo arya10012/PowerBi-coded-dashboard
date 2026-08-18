@@ -163,3 +163,6 @@ Fixed issues identified during dashboard testing.
 
 ### 2026-08-17 - Validate dashboard filters
 Validated dashboard filters and interactive functionality.
+
+### 2026-08-18 - Add project documentation
+Added documentation describing the project and dashboard.
