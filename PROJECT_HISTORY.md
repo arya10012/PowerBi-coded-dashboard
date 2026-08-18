@@ -166,3 +166,6 @@ Validated dashboard filters and interactive functionality.
 
 ### 2026-08-18 - Add project documentation
 Added documentation describing the project and dashboard.
+
+### 2026-08-18 - Document dashboard methodology
+Documented the data preparation and dashboard methodology.
