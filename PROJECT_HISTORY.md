@@ -37,3 +37,6 @@ This file contains development and documentation notes for the project.
 
 ### Document sales analysis
 - Development note added: 2026-08-19 16:04:54
+
+### Document customer analysis
+- Development note added: 2026-08-19 16:04:55
