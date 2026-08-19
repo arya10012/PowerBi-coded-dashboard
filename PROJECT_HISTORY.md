@@ -55,3 +55,6 @@ This file contains development and documentation notes for the project.
 
 ### Document dashboard filters
 - Development note added: 2026-08-19 16:04:57
+
+### Document visualization design
+- Development note added: 2026-08-19 16:04:58
