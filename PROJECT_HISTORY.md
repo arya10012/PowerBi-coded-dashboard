@@ -16,3 +16,6 @@ This file contains development and documentation notes for the project.
 
 ### Document data sources
 - Development note added: 2026-08-19 16:04:50
+
+### Document data preparation process
+- Development note added: 2026-08-19 16:04:51
