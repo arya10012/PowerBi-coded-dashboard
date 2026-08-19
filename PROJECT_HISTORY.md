@@ -76,3 +76,6 @@ This file contains development and documentation notes for the project.
 
 ### Add dashboard notes
 - Development note added: 2026-08-19 16:05:01
+
+### Add analysis methodology
+- Development note added: 2026-08-19 16:05:02
