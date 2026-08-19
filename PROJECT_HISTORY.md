@@ -73,3 +73,6 @@ This file contains development and documentation notes for the project.
 
 ### Improve project documentation
 - Development note added: 2026-08-19 16:05:00
+
+### Add dashboard notes
+- Development note added: 2026-08-19 16:05:01
