@@ -22,3 +22,6 @@ This file contains development and documentation notes for the project.
 
 ### Document data cleaning workflow
 - Development note added: 2026-08-19 16:04:51
+
+### Document exploratory analysis
+- Development note added: 2026-08-19 16:04:52
