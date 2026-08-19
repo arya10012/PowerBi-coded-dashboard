@@ -19,3 +19,6 @@ This file contains development and documentation notes for the project.
 
 ### Document data preparation process
 - Development note added: 2026-08-19 16:04:51
+
+### Document data cleaning workflow
+- Development note added: 2026-08-19 16:04:51
