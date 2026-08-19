@@ -49,3 +49,6 @@ This file contains development and documentation notes for the project.
 
 ### Document Power BI measures
 - Development note added: 2026-08-19 16:04:56
+
+### Document DAX calculations
+- Development note added: 2026-08-19 16:04:57
