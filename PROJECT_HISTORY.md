@@ -58,3 +58,6 @@ This file contains development and documentation notes for the project.
 
 ### Document visualization design
 - Development note added: 2026-08-19 16:04:58
+
+### Document chart configuration
+- Development note added: 2026-08-19 16:04:58
