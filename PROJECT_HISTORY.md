@@ -40,3 +40,6 @@ This file contains development and documentation notes for the project.
 
 ### Document customer analysis
 - Development note added: 2026-08-19 16:04:55
+
+### Document regional analysis
+- Development note added: 2026-08-19 16:04:55
