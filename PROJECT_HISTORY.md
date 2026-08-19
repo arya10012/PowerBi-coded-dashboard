@@ -31,3 +31,6 @@ This file contains development and documentation notes for the project.
 
 ### Document dashboard architecture
 - Development note added: 2026-08-19 16:04:53
+
+### Document dashboard layout
+- Development note added: 2026-08-19 16:04:53
