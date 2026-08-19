@@ -67,3 +67,6 @@ This file contains development and documentation notes for the project.
 
 ### Add project usage instructions
 - Development note added: 2026-08-19 16:04:59
+
+### Add project setup instructions
+- Development note added: 2026-08-19 16:05:00
