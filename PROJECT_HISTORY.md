@@ -28,3 +28,6 @@ This file contains development and documentation notes for the project.
 
 ### Document KPI definitions
 - Development note added: 2026-08-19 16:04:52
+
+### Document dashboard architecture
+- Development note added: 2026-08-19 16:04:53
