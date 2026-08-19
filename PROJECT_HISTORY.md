@@ -85,3 +85,6 @@ This file contains development and documentation notes for the project.
 
 ### Add future improvements
 - Development note added: 2026-08-19 16:05:03
+
+### Perform project documentation cleanup
+- Development note added: 2026-08-19 16:05:03
