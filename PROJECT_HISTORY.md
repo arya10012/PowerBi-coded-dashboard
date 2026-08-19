@@ -52,3 +52,6 @@ This file contains development and documentation notes for the project.
 
 ### Document DAX calculations
 - Development note added: 2026-08-19 16:04:57
+
+### Document dashboard filters
+- Development note added: 2026-08-19 16:04:57
