@@ -13,3 +13,6 @@ This file contains development and documentation notes for the project.
 
 ### Add project technology stack
 - Development note added: 2026-08-19 16:04:50
+
+### Document data sources
+- Development note added: 2026-08-19 16:04:50
