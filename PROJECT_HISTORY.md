@@ -46,3 +46,6 @@ This file contains development and documentation notes for the project.
 
 ### Document time based analysis
 - Development note added: 2026-08-19 16:04:56
+
+### Document Power BI measures
+- Development note added: 2026-08-19 16:04:56
