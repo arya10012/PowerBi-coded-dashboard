@@ -79,3 +79,6 @@ This file contains development and documentation notes for the project.
 
 ### Add analysis methodology
 - Development note added: 2026-08-19 16:05:02
+
+### Add project limitations
+- Development note added: 2026-08-19 16:05:02
