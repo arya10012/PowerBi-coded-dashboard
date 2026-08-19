@@ -7,3 +7,6 @@ This file contains development and documentation notes for the project.
 
 ### Document project overview
 - Development note added: 2026-08-19 16:04:48
+
+### Document dashboard objectives
+- Development note added: 2026-08-19 16:04:49
